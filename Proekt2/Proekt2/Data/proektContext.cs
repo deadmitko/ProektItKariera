@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace Proekt2.Models
+namespace Proekt2.Data.Models
 {
     public partial class proektContext : DbContext
     {
@@ -23,8 +23,8 @@ namespace Proekt2.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=USER-PC\\SQLEXPRESS;Database=proekt;Integrated Security=True;");
+
+                optionsBuilder.UseSqlServer("Server=STUDENT\\Student KK1;Database=proekt;Integrated Security=True;");
             }
         }
 

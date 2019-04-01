@@ -1,4 +1,4 @@
-﻿using Proekt2.Models;
+﻿using Proekt2.Data.Models;
 using System;
 
 namespace Proekt2
