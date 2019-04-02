@@ -1,0 +1,58 @@
+-- --------------------------------------------------------
+-- Host:                         127.0.0.1
+-- Server version:               8.0.12 - MySQL Community Server - GPL
+-- Server OS:                    Win64
+-- HeidiSQL Version:             9.5.0.5196
+-- --------------------------------------------------------
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET NAMES utf8 */;
+/*!50503 SET NAMES utf8mb4 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+
+
+-- Dumping database structure for proekt
+CREATE DATABASE proekt /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */;
+USE [proekt];
+
+-- Dumping structure for table proekt.favourites
+CREATE TABLE favourites (
+  [id] int NOT NULL IDENTITY,
+  [id_user] int NOT NULL DEFAULT '0',
+  [name] varchar(50) NOT NULL DEFAULT '0',
+  [description] varchar(500) NOT NULL DEFAULT '0',
+  PRIMARY KEY ([id])
+ ,
+  CONSTRAINT [FK1] FOREIGN KEY ([id_user]) REFERENCES users ([id])
+)  ;
+
+CREATE INDEX [FK1] ON favourites ([id_user]);
+
+-- Dumping data for table proekt.favourites: ~0 rows (approximately)
+/*!40000 ALTER TABLE `favourites` DISABLE KEYS */;
+/*!40000 ALTER TABLE `favourites` ENABLE KEYS */;
+
+-- Dumping structure for table proekt.receipts
+CREATE TABLE receipts (
+  [id] int NOT NULL IDENTITY,
+  [name] varchar(50) DEFAULT '0',
+  [description] varchar(500) DEFAULT '0',
+  [category] varchar(50) DEFAULT '0',
+  PRIMARY KEY ([id])
+)  ;
+
+-- Dumping data for table proekt.receipts: ~0 rows (approximately)
+/*!40000 ALTER TABLE `receipts` DISABLE KEYS */;
+/*!40000 ALTER TABLE `receipts` ENABLE KEYS */;
+
+-- Dumping structure for table proekt.users
+CREATE TABLE users (
+  [id] int NOT NULL IDENTITY,
+  [username] varchar(50) DEFAULT NULL,
+  [password] varchar(50) DEFAULT NULL,
+  [first] varchar(50) DEFAULT NULL,
+  [last] varchar(50) DEFAULT NULL,
+  [email] varchar(50) DEFAULT NULL,
+  PRIMARY KEY ([id])
+)   ;
