@@ -1,0 +1,22 @@
+C:\Users\Student KK1\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\netcoreapp2.1\ConsoleApp28.deps.json
+C:\Users\Student KK1\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\netcoreapp2.1\ConsoleApp28.runtimeconfig.json
+C:\Users\Student KK1\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\netcoreapp2.1\ConsoleApp28.runtimeconfig.dev.json
+C:\Users\Student KK1\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\netcoreapp2.1\ConsoleApp28.dll
+C:\Users\Student KK1\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\netcoreapp2.1\ConsoleApp28.pdb
+C:\Users\Student KK1\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp2.1\ConsoleApp28.csprojAssemblyReference.cache
+C:\Users\Student KK1\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp2.1\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\Student KK1\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp2.1\ConsoleApp28.AssemblyInfoInputs.cache
+C:\Users\Student KK1\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp2.1\ConsoleApp28.AssemblyInfo.cs
+C:\Users\Student KK1\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp2.1\ConsoleApp28.dll
+C:\Users\Student KK1\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp2.1\ConsoleApp28.pdb
+C:\Users\User\Desktop\fizika\123\ConsoleApp28\ConsoleApp28\bin\Debug\netcoreapp2.1\ConsoleApp28.deps.json
+C:\Users\User\Desktop\fizika\123\ConsoleApp28\ConsoleApp28\bin\Debug\netcoreapp2.1\ConsoleApp28.runtimeconfig.json
+C:\Users\User\Desktop\fizika\123\ConsoleApp28\ConsoleApp28\bin\Debug\netcoreapp2.1\ConsoleApp28.runtimeconfig.dev.json
+C:\Users\User\Desktop\fizika\123\ConsoleApp28\ConsoleApp28\bin\Debug\netcoreapp2.1\ConsoleApp28.dll
+C:\Users\User\Desktop\fizika\123\ConsoleApp28\ConsoleApp28\bin\Debug\netcoreapp2.1\ConsoleApp28.pdb
+C:\Users\User\Desktop\fizika\123\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp2.1\ConsoleApp28.csprojAssemblyReference.cache
+C:\Users\User\Desktop\fizika\123\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp2.1\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\fizika\123\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp2.1\ConsoleApp28.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\fizika\123\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp2.1\ConsoleApp28.AssemblyInfo.cs
+C:\Users\User\Desktop\fizika\123\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp2.1\ConsoleApp28.dll
+C:\Users\User\Desktop\fizika\123\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp2.1\ConsoleApp28.pdb
